@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-hanzou&layout=compact)]
 
+[![@im-hanzou's Holopin board](https://holopin.io/api/user/board?user=haxsinner)](https://holopin.io/@haxsinner)
+
 <!--
 **im-hanzou/im-hanzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
