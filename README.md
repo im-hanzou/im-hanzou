@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![@im-hanzou's Holopin board](https://holopin.io/api/user/board?user=haxsinner)](https://holopin.io/@haxsinner)
 
-![Hanzou's github stats](https://github-readme-stats.vercel.app/api?username=im-hanzou&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-hanzou&layout=compact)
+![Hanzou's github stats](https://github-readme-stats.vercel.app/api?username=im-hanzou&show_icons=true&theme=tokyonight)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-hanzou&layout=compact)
 
 
 
