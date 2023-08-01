@@ -1,6 +1,9 @@
 ### Hi there 👋
+I'm Hanzou, a Python enthusiast who loves crafting command-line tools. I'm passionate about cryptocurrency, cybersecurity, web development, data science, and machine learning.
+## My Hacktoberfest Badges (L's Badges xD)
 [![@im-hanzou's Holopin board](https://holopin.io/api/user/board?user=haxsinner)](https://holopin.io/@haxsinner)
 
+## My GitHub Stats and Top Languages
 ![Hanzou's github stats](https://github-readme-stats.vercel.app/api?username=im-hanzou&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-hanzou&layout=donut&theme=tokyonight&show_icons=true)
 
 <!--
