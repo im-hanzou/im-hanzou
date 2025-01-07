@@ -7,6 +7,10 @@ Thanks for using my scripts! Just want to let you know:
 
 If you like my scripts and want to support me (no pressure though 😂), you can through:
 
+BTC:
+```bash
+bc1q4gvjgyxltkn3ptlhsuc0ujyl8u4uawtrz8qu3a
+```
 ERC-20:
 ```bash
 0x3290286067Cf94A5A049692b89Da5144055dC150
