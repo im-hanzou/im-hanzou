@@ -1,5 +1,27 @@
 ### Hi there 👋
 I'm Hanzou, a Python enthusiast who loves crafting command-line tools. I'm passionate about cryptocurrency, cybersecurity, web development, data science, and machine learning.
+
+Thanks for using my scripts! Just want to let you know:
+- I don't accept VIP members or any script creation requests. I make scripts when I feel like it 'cause I'm lazy 🤣
+- All the scripts I make are ALWAYS FREE! Please don't sell them ❤️. Everyone deserves a chance to get rich 🤑
+
+If you like my scripts and want to support me (no pressure though 😂), you can through:
+
+ERC-20:
+```bash
+0x3290286067Cf94A5A049692b89Da5144055dC150
+```
+TRC-20:
+```bash
+TFRohZqBwWs1caq8obonJ34iVjzTzWGqbU
+```
+SOLANA:
+```bash
+9f9RDJ8tfd733h4vCyBHYr2N48G7Vh8LsWwi2DU7iEy4
+```
+
+For Indonesian People, come [here](https://saweria.co/sinnerman). Thank you everyone ❤️
+
 ## My Hacktoberfest Badges (L's Badges xD)
 [![@im-hanzou's Holopin board](https://holopin.io/api/user/board?user=haxsinner)](https://holopin.io/@haxsinner)
 
