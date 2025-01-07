@@ -5,7 +5,7 @@ Thanks for using my bots or scripts! Just want to let you know:
 - I don't accept VIP members or any bot or script creation requests. I make bots or scripts when I feel like it 'cause I'm lazy 🤣
 - All the bots or scripts I make are ALWAYS FREE! Please don't sell them ❤️. CAUSE EVERYONE DESERVES A CHANCE TO GET RICH 🤑
 
-If you like my scripts and want to support me (no pressure though 😂), you can through:
+If you like my bots or scripts and want to support me (no pressure though 😂), you can through:
 
 BTC:
 ```bash
