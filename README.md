@@ -2,6 +2,7 @@
 I'm Hanzou, a Python enthusiast who loves crafting command-line tools. I'm passionate about cryptocurrency, cybersecurity, web development, data science, and machine learning.
 
 Thanks for using my bots or scripts! Just want to let you know:
+- Not all scripts here are mine, or my original creation. Sometimes I recode to fix errors and make usage tutorials. 😁
 - I don't accept VIP members or any bot or script creation requests. I make bots or scripts when I feel like it 'cause I'm lazy 🤣
 - All the bots or scripts I make are ALWAYS FREE! Please don't sell them ❤️. CAUSE EVERYONE DESERVES A CHANCE TO GET RICH 🤑
 
