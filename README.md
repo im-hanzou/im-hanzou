@@ -25,7 +25,8 @@ SOLANA:
 9f9RDJ8tfd733h4vCyBHYr2N48G7Vh8LsWwi2DU7iEy4
 ```
 
-For Indonesian People, come [here](https://saweria.co/sinnerman). Thank you everyone ❤️
+<!-- For Indonesian People, come [here](https://saweria.co/sinnerman).--> 
+Thank you everyone ❤️
 
 ## My Hacktoberfest Badges (L's Badges xD)
 [![@im-hanzou's Holopin board](https://holopin.io/api/user/board?user=haxsinner)](https://holopin.io/@haxsinner)
